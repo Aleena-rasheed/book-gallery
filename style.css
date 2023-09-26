@@ -1,0 +1,56 @@
+*{
+ margin: 0; 
+ padding: 0; 
+ font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+header{
+    background-color: blanchedalmond;
+    height: 50px;
+    width: 1500px;
+
+}
+.overlay{
+    position: absolute;
+
+    top: 40%;
+    left: 20%;
+    
+    font-size:xxx-large;
+    border-radius: 10px;
+    color: azure;
+    
+
+}
+header h3{
+    color: brown;
+    text-align: center;
+    padding: 10px;
+}
+footer{
+    background-color: cadetblue;
+    
+    height: 100px;
+    
+
+}
+#footerdiv{
+    color: brown;
+    text-align: center;
+}
+.row{
+    margin: 10px;
+    padding: 10px;
+    background-color: blanchedalmond;
+    justify-content: space-around;
+    display: flex;
+}
+.col{
+  border: 5px red ; 
+  margin: 10px;
+  padding: 10px;   
+  
+  
+}
+button{
+    background-color: cadetblue;
+}
